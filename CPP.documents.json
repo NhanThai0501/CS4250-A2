@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "67143a67f4efede22acbb33e"
+  },
+  "id": "1",
+  "text": "Baseball is played during summer months.",
+  "title": "Exercise",
+  "date": "2024-09-03",
+  "category": "Sports",
+  "terms": [
+    {
+      "term": "baseball",
+      "count": 1,
+      "num_char": 8
+    },
+    {
+      "term": "is",
+      "count": 1,
+      "num_char": 2
+    },
+    {
+      "term": "played",
+      "count": 1,
+      "num_char": 6
+    },
+    {
+      "term": "during",
+      "count": 1,
+      "num_char": 6
+    },
+    {
+      "term": "summer",
+      "count": 1,
+      "num_char": 6
+    },
+    {
+      "term": "months.",
+      "count": 1,
+      "num_char": 7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67143a82f4efede22acbb33f"
+  },
+  "id": "2",
+  "text": "Summer is the time for picnics here. Picnics time!",
+  "title": "California",
+  "date": "2024-09-04",
+  "category": "Sports",
+  "terms": [
+    {
+      "term": "summer",
+      "count": 1,
+      "num_char": 6
+    },
+    {
+      "term": "is",
+      "count": 1,
+      "num_char": 2
+    },
+    {
+      "term": "the",
+      "count": 1,
+      "num_char": 3
+    },
+    {
+      "term": "time",
+      "count": 1,
+      "num_char": 4
+    },
+    {
+      "term": "for",
+      "count": 1,
+      "num_char": 3
+    },
+    {
+      "term": "picnics",
+      "count": 2,
+      "num_char": 7
+    },
+    {
+      "term": "here.",
+      "count": 1,
+      "num_char": 5
+    },
+    {
+      "term": "time!",
+      "count": 1,
+      "num_char": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67143b0df4efede22acbb342"
+  },
+  "id": "4",
+  "text": "Why is summer so hot here? This is a bad time!",
+  "title": "Arizona",
+  "date": "2024-09-07",
+  "category": "Seasons",
+  "terms": [
+    {
+      "term": "why",
+      "count": 1,
+      "num_char": 3
+    },
+    {
+      "term": "is",
+      "count": 2,
+      "num_char": 2
+    },
+    {
+      "term": "summer",
+      "count": 1,
+      "num_char": 6
+    },
+    {
+      "term": "so",
+      "count": 1,
+      "num_char": 2
+    },
+    {
+      "term": "hot",
+      "count": 1,
+      "num_char": 3
+    },
+    {
+      "term": "here?",
+      "count": 1,
+      "num_char": 5
+    },
+    {
+      "term": "this",
+      "count": 1,
+      "num_char": 4
+    },
+    {
+      "term": "a",
+      "count": 1,
+      "num_char": 1
+    },
+    {
+      "term": "bad",
+      "count": 1,
+      "num_char": 3
+    },
+    {
+      "term": "time!",
+      "count": 1,
+      "num_char": 5
+    }
+  ]
+}]
